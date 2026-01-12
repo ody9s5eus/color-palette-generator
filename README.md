@@ -1,5 +1,7 @@
 # Color Palette Generator
 
+🚀 **Live Demo:** [https://ody9s5eus.github.io/color-palette-generator/](https://ody9s5eus.github.io/color-palette-generator/)
+
 A simple, beautiful color palette generator built with React and Tailwind CSS v4.
 
 ## Features
